@@ -1,5 +1,9 @@
 # FoodPoliciesAcceptability
+![image](https://user-images.githubusercontent.com/82210090/114180233-36b94400-9940-11eb-8d07-bbeb55f162b8.png)
+
+
 This repository contains the data and scripts to reproduce Espinosa & Nassar,2021: The acceptability of food policies.
+
 
 
 All scripts are STATA Dofiles, which were run with STATA 14. 
